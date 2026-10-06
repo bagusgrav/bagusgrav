@@ -34,7 +34,7 @@ Focused on high-performance APIs, asynchronous system architectures, robust data
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagusgrav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bagusgrav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagusgrav&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
